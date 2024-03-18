@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/carloangeletti"><img src="./devcard.png?type=wide" width="652" alt="Carlo Angeletti's Dev Card"/></a>
+<a href="https://app.daily.dev/carloangeletti"><img src="./devcard.png" width="356" alt="Carlo Angeletti's Dev Card"/></a>
 <!--
 **carloangelettihumans/carloangelettihumans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
