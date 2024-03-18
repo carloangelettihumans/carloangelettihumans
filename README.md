@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/carloangeletti"><img src="https://api.daily.dev/devcards/v2/b2mvzrcirAi1tSsYkVZDH.png?r=wiw&type=default" width="356" alt="Carlo Angeletti's Dev Card"/></a>
+
 <!--
 **carloangelettihumans/carloangelettihumans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
